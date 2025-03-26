@@ -1,0 +1,5 @@
+opencv-python>=4.5.2
+numpy>=1.19.0
+pyautogui>=0.9.53
+ipykernel>=6.0.0
+jupyter>=1.0.0 
